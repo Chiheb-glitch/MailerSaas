@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503246556065",
+    "project_id": "mailer-4f803",
+    "storage_bucket": "mailer-4f803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503246556065:android:fe1d11bc8ae40a1e0d99e0",
+        "android_client_info": {
+          "package_name": "com.example.mailer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkBRuPMNfyG0virC5EmuZOKyvd412aosA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
